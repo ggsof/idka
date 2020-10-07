@@ -1,0 +1,1456 @@
+{
+    "AK-47": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "AUG": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "AWP": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "CZ75 Auto": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Desert Eagle": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Dual Berettas": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "FAMAS": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Five-SeveN": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "G3SG1": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Galil AR": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Glock-18": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Glove": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Knife": {
+        "d_index": 42,
+        "d_vec_index": 0,
+        "do_index": 500,
+        "do_vec_index": 1,
+        "pk_index": 558,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "M249": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "M4A1-S": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "M4A4": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "MAC-10": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "MAG-7": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "MP5": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "MP7": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "MP9": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Negev": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Nova": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "P2000": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "P250": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "P90": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "PP-Bizon": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "R8 Revolver": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "SCAR-20": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "SG 553": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "SSG 08": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Sawed-Off": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "Tec-9": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "UMP-45": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "USP-S": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "XM1014": {
+        "d_index": 1,
+        "d_vec_index": 0,
+        "do_index": 0,
+        "do_vec_index": 0,
+        "pk_index": 0,
+        "pk_vec_index": 0,
+        "seed": 0,
+        "stat_trak_val": 0,
+        "stattrack": false,
+        "wear": 0.0
+    },
+    "aim": {
+        "deathmatch": false,
+        "enable": true,
+        "key": {
+            "key": 6,
+            "mode": 0
+        },
+        "on_key": true
+    },
+    "aimbot": [
+        {
+            "lock": false,
+            "name": "Pistols",
+            "settings": {
+                "aim_type": 1,
+                "autopistol": true,
+                "autostop": false,
+                "autowall": true,
+                "autowall_int": 0.0,
+                "backtrack_ticks": 3,
+                "curve": 1.9709999561309814,
+                "enable_backtrack": true,
+                "flash_check": false,
+                "fov": 30.0,
+                "fov_type": 0,
+                "hitbox": 1,
+                "hitchance": false,
+                "hitchance_amount": 16.898000717163086,
+                "humanize": true,
+                "jump_check": false,
+                "kill_delay": 0,
+                "min_damage": 25,
+                "only_in_zoom": false,
+                "priority": 0,
+                "psilent": false,
+                "rcs": true,
+                "rcs_fov": 20.0,
+                "rcs_fov_enabled": true,
+                "rcs_smooth": 1.0,
+                "rcs_smooth_enabled": false,
+                "rcs_start": 2,
+                "rcs_type": 0,
+                "rcs_x": 100,
+                "rcs_y": 100,
+                "shot_delay": 0,
+                "silent": false,
+                "silent_fov": 0.0,
+                "smoke_check": false,
+                "smooth": 1.0,
+                "smooth_type": 1,
+                "trigger_check_flash": false,
+                "trigger_check_smoke": false,
+                "trigger_delay": 0.0,
+                "trigger_enable": true,
+                "trigger_hit_chance": 31.746000289916992,
+                "trigger_hitgroup_chest": true,
+                "trigger_hitgroup_head": true,
+                "trigger_hitgroup_left_arm": true,
+                "trigger_hitgroup_left_leg": true,
+                "trigger_hitgroup_right_arm": true,
+                "trigger_hitgroup_right_leg": true,
+                "trigger_hitgroup_stomach": true
+            },
+            "weapons": [
+                32,
+                4,
+                63,
+                3,
+                1,
+                64,
+                2,
+                30,
+                61,
+                36
+            ]
+        },
+        {
+            "lock": false,
+            "name": "Rifles",
+            "settings": {
+                "aim_type": 1,
+                "autopistol": true,
+                "autostop": false,
+                "autowall": true,
+                "autowall_int": 0.0,
+                "backtrack_ticks": 2,
+                "curve": 0.6570000052452087,
+                "enable_backtrack": true,
+                "flash_check": false,
+                "fov": 30.0,
+                "fov_type": 0,
+                "hitbox": 1,
+                "hitchance": false,
+                "hitchance_amount": 13.28499984741211,
+                "humanize": true,
+                "jump_check": false,
+                "kill_delay": 0,
+                "min_damage": 25,
+                "only_in_zoom": false,
+                "priority": 0,
+                "psilent": false,
+                "rcs": true,
+                "rcs_fov": 20.0,
+                "rcs_fov_enabled": true,
+                "rcs_smooth": 1.0,
+                "rcs_smooth_enabled": false,
+                "rcs_start": 2,
+                "rcs_type": 0,
+                "rcs_x": 100,
+                "rcs_y": 100,
+                "shot_delay": 0,
+                "silent": false,
+                "silent_fov": 0.0,
+                "smoke_check": false,
+                "smooth": 1.0,
+                "smooth_type": 1,
+                "trigger_check_flash": false,
+                "trigger_check_smoke": false,
+                "trigger_delay": 0.0,
+                "trigger_enable": true,
+                "trigger_hit_chance": 38.624000549316406,
+                "trigger_hitgroup_chest": true,
+                "trigger_hitgroup_head": true,
+                "trigger_hitgroup_left_arm": true,
+                "trigger_hitgroup_left_leg": true,
+                "trigger_hitgroup_right_arm": true,
+                "trigger_hitgroup_right_leg": true,
+                "trigger_hitgroup_stomach": true
+            },
+            "weapons": [
+                13,
+                10,
+                16,
+                60,
+                39,
+                8,
+                7
+            ]
+        },
+        {
+            "lock": false,
+            "name": "Shotguns",
+            "settings": {
+                "aim_type": 1,
+                "autopistol": true,
+                "autostop": false,
+                "autowall": true,
+                "autowall_int": 0.0,
+                "backtrack_ticks": 2,
+                "curve": 0.6570000052452087,
+                "enable_backtrack": true,
+                "flash_check": false,
+                "fov": 30.0,
+                "fov_type": 0,
+                "hitbox": 1,
+                "hitchance": false,
+                "hitchance_amount": 24.124000549316406,
+                "humanize": true,
+                "jump_check": false,
+                "kill_delay": 0,
+                "min_damage": 25,
+                "only_in_zoom": false,
+                "priority": 0,
+                "psilent": false,
+                "rcs": true,
+                "rcs_fov": 20.0,
+                "rcs_fov_enabled": true,
+                "rcs_smooth": 1.0,
+                "rcs_smooth_enabled": false,
+                "rcs_start": 2,
+                "rcs_type": 0,
+                "rcs_x": 100,
+                "rcs_y": 100,
+                "shot_delay": 0,
+                "silent": false,
+                "silent_fov": 0.0,
+                "smoke_check": false,
+                "smooth": 1.0,
+                "smooth_type": 0,
+                "trigger_check_flash": false,
+                "trigger_check_smoke": false,
+                "trigger_delay": 0.0,
+                "trigger_enable": true,
+                "trigger_hit_chance": 19.04800033569336,
+                "trigger_hitgroup_chest": true,
+                "trigger_hitgroup_head": true,
+                "trigger_hitgroup_left_arm": true,
+                "trigger_hitgroup_left_leg": true,
+                "trigger_hitgroup_right_arm": true,
+                "trigger_hitgroup_right_leg": true,
+                "trigger_hitgroup_stomach": true
+            },
+            "weapons": [
+                35,
+                25,
+                29,
+                27,
+                14,
+                28
+            ]
+        },
+        {
+            "lock": false,
+            "name": "Snipers",
+            "settings": {
+                "aim_type": 1,
+                "autopistol": true,
+                "autostop": false,
+                "autowall": true,
+                "autowall_int": 0.0,
+                "backtrack_ticks": 3,
+                "curve": 0.6570000052452087,
+                "enable_backtrack": true,
+                "flash_check": false,
+                "fov": 18.393999099731445,
+                "fov_type": 0,
+                "hitbox": 1,
+                "hitchance": false,
+                "hitchance_amount": 26.29199981689453,
+                "humanize": true,
+                "jump_check": false,
+                "kill_delay": 0,
+                "min_damage": 27,
+                "only_in_zoom": false,
+                "priority": 0,
+                "psilent": false,
+                "rcs": true,
+                "rcs_fov": 9.635000228881836,
+                "rcs_fov_enabled": true,
+                "rcs_smooth": 1.0,
+                "rcs_smooth_enabled": false,
+                "rcs_start": 2,
+                "rcs_type": 0,
+                "rcs_x": 100,
+                "rcs_y": 100,
+                "shot_delay": 0,
+                "silent": false,
+                "silent_fov": 0.0,
+                "smoke_check": false,
+                "smooth": 1.0,
+                "smooth_type": 1,
+                "trigger_check_flash": false,
+                "trigger_check_smoke": false,
+                "trigger_delay": 0.0,
+                "trigger_enable": true,
+                "trigger_hit_chance": 50.26499938964844,
+                "trigger_hitgroup_chest": true,
+                "trigger_hitgroup_head": true,
+                "trigger_hitgroup_left_arm": true,
+                "trigger_hitgroup_left_leg": false,
+                "trigger_hitgroup_right_arm": true,
+                "trigger_hitgroup_right_leg": false,
+                "trigger_hitgroup_stomach": true
+            },
+            "weapons": [
+                40,
+                9,
+                11,
+                38
+            ]
+        },
+        {
+            "lock": false,
+            "name": "SubMachineGuns",
+            "settings": {
+                "aim_type": 1,
+                "autopistol": true,
+                "autostop": false,
+                "autowall": true,
+                "autowall_int": 0.0,
+                "backtrack_ticks": 3,
+                "curve": 0.0,
+                "enable_backtrack": true,
+                "flash_check": false,
+                "fov": 30.0,
+                "fov_type": 0,
+                "hitbox": 1,
+                "hitchance": false,
+                "hitchance_amount": 24.124000549316406,
+                "humanize": true,
+                "jump_check": false,
+                "kill_delay": 0,
+                "min_damage": 26,
+                "only_in_zoom": false,
+                "priority": 0,
+                "psilent": false,
+                "rcs": true,
+                "rcs_fov": 20.0,
+                "rcs_fov_enabled": true,
+                "rcs_smooth": 1.0,
+                "rcs_smooth_enabled": false,
+                "rcs_start": 1,
+                "rcs_type": 0,
+                "rcs_x": 100,
+                "rcs_y": 100,
+                "shot_delay": 0,
+                "silent": false,
+                "silent_fov": 0.0,
+                "smoke_check": false,
+                "smooth": 1.0,
+                "smooth_type": 1,
+                "trigger_check_flash": false,
+                "trigger_check_smoke": false,
+                "trigger_delay": 0.0,
+                "trigger_enable": true,
+                "trigger_hit_chance": 48.14799880981445,
+                "trigger_hitgroup_chest": true,
+                "trigger_hitgroup_head": true,
+                "trigger_hitgroup_left_arm": true,
+                "trigger_hitgroup_left_leg": true,
+                "trigger_hitgroup_right_arm": true,
+                "trigger_hitgroup_right_leg": true,
+                "trigger_hitgroup_stomach": true
+            },
+            "weapons": [
+                17,
+                34,
+                33,
+                24,
+                26,
+                19,
+                23
+            ]
+        }
+    ],
+    "chams_hands": {
+        "do_not_remove_model": false
+    },
+    "chams_hands_0": {
+        "clr": {
+            "a": 58,
+            "b": 152,
+            "g": 238,
+            "r": 0,
+            "rainbow": false
+        },
+        "enabled": true,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_hands_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_allies_all": {
+        "do_not_remove_model": false
+    },
+    "chams_player_allies_all_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_allies_all_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_allies_occluded": {
+        "do_not_remove_model": false
+    },
+    "chams_player_allies_occluded_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_allies_occluded_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_allies_visible": {
+        "do_not_remove_model": false
+    },
+    "chams_player_allies_visible_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_allies_visible_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_backtrack": {
+        "do_not_remove_model": false
+    },
+    "chams_player_backtrack_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_backtrack_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_enemies_all": {
+        "do_not_remove_model": false
+    },
+    "chams_player_enemies_all_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 4,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_enemies_all_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_enemies_occluded": {
+        "do_not_remove_model": false
+    },
+    "chams_player_enemies_occluded_0": {
+        "clr": {
+            "a": 255,
+            "b": 250,
+            "g": 255,
+            "r": 0,
+            "rainbow": false
+        },
+        "enabled": true,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_enemies_occluded_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_enemies_visible": {
+        "do_not_remove_model": false
+    },
+    "chams_player_enemies_visible_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": true,
+        "hBased": false,
+        "materialIndex": 4,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_enemies_visible_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_local_player": {
+        "do_not_remove_model": false
+    },
+    "chams_player_local_player_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_player_local_player_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_sleeves": {
+        "do_not_remove_model": false
+    },
+    "chams_sleeves_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_sleeves_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_weapons": {
+        "do_not_remove_model": false
+    },
+    "chams_weapons_0": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 194,
+            "r": 2,
+            "rainbow": true
+        },
+        "enabled": true,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "chams_weapons_1": {
+        "clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": false,
+        "hBased": false,
+        "materialIndex": 0,
+        "pulsing": false,
+        "wireframe": false
+    },
+    "esp": {
+        "armor_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 50,
+            "r": 0,
+            "rainbow": false
+        },
+        "boxes.allies_invis_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "boxes.allies_vis_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "boxes.enabled": true,
+        "boxes.enemy_invis_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "boxes.enemy_vis_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "boxes.fill_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "boxes.filled": false,
+        "boxes.outline": false,
+        "boxes.outline_clr": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 0,
+            "rainbow": false
+        },
+        "boxes.type": 0,
+        "flags": true,
+        "flags_bomb": false,
+        "flags_bomb_size": 14.163999557495117,
+        "flags_defusing": false,
+        "flags_defusing_size": 8.0,
+        "flags_flashed": false,
+        "flags_flashed_size": 14.163999557495117,
+        "flags_hk": false,
+        "flags_hk_size": 14.329000473022461,
+        "flags_reload": false,
+        "flags_reload_size": 12.932000160217285,
+        "flags_scoped": false,
+        "flags_scoped_size": 13.506999969482422,
+        "hp_clr": {
+            "a": 255,
+            "b": 0,
+            "g": 255,
+            "r": 0,
+            "rainbow": false
+        },
+        "name_size": 13.425000190734863,
+        "other.ammo_bar": false,
+        "other.ammobar_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "other.armor": true,
+        "other.dormant": false,
+        "other.head_dot": true,
+        "other.head_dot_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 14,
+            "r": 0,
+            "rainbow": false
+        },
+        "other.hp": true,
+        "other.name": true,
+        "other.name_clr": {
+            "a": 255,
+            "b": 244,
+            "g": 231,
+            "r": 0,
+            "rainbow": false
+        },
+        "other.snipeline": false,
+        "other.snipeline_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "other.team": false,
+        "other.visible_only": false,
+        "other.weapon": true,
+        "other.weapon_clr": {
+            "a": 255,
+            "b": 122,
+            "g": 122,
+            "r": 148,
+            "rainbow": false
+        },
+        "skeleton.clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "skeleton.enabled": false,
+        "sound_esp": false,
+        "sound_esp_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "sound_esp_onteam": false,
+        "sound_esp_radius": 15.0,
+        "sound_esp_time": 0.5,
+        "sound_esp_type": 0,
+        "weapon_size": 16.795000076293945
+    },
+    "eventlogger": {
+        "defusing": true,
+        "hurt": true,
+        "planting": true,
+        "player_buy": false
+    },
+    "glow": {
+        "allies_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "allies_invis_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "bloom": false,
+        "c4_carrier": true,
+        "c4_carrier_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "c4_planted": true,
+        "c4_planted_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "chickens_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "defuse_kits": true,
+        "defuse_kits_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "enabled": true,
+        "enemy_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 0,
+            "r": 195,
+            "rainbow": false
+        },
+        "enemy_invis_clr": {
+            "a": 255,
+            "b": 255,
+            "g": 0,
+            "r": 212,
+            "rainbow": false
+        },
+        "on_chickens": false,
+        "on_team": false,
+        "players": true,
+        "type": 0,
+        "weapons_clr": {
+            "a": 249,
+            "b": 0,
+            "g": 0,
+            "r": 255,
+            "rainbow": false
+        }
+    },
+    "jump_bug": {
+        "key": {
+            "key": 0,
+            "mode": 0
+        }
+    },
+    "menu": {
+        "size": {
+            "x": 976.0,
+            "y": 450.0
+        }
+    },
+    "misc": {
+        "aa_arrows": false,
+        "aa_arrows_length": 40,
+        "accent_color": {
+            "a": 255,
+            "b": 255,
+            "g": 206,
+            "r": 0,
+            "rainbow": false
+        },
+        "alpha_modulate": 111.98400115966797,
+        "autostrafe": false,
+        "autostrafe_key": {
+            "key": 0,
+            "mode": 0
+        },
+        "bhop": true,
+        "bhop_chance": 100,
+        "blockbot_key": {
+            "key": 86,
+            "mode": 0
+        },
+        "chams_backtrack_all_ticks": true,
+        "damage_indicator": true,
+        "damage_indicator_color": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 255,
+            "rainbow": false
+        },
+        "edge_jump": false,
+        "edge_jump_key": {
+            "key": 0,
+            "mode": 0
+        },
+        "fov_default": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "fov_silent": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "grenade_prediction": true,
+        "grenade_prediction_color": {
+            "a": 255,
+            "b": 253,
+            "g": 0,
+            "r": 255,
+            "rainbow": false
+        },
+        "infinite_duck": true,
+        "knife_bot": true,
+        "knife_bot_dist": 100,
+        "knife_bot_filter": 2,
+        "knife_bot_mode": 0,
+        "legit_aa": false,
+        "legit_aa_filp_key": {
+            "key": 0,
+            "mode": 0
+        },
+        "legit_aa_mode": 10,
+        "molotov_timer": true,
+        "molotov_timer_color": {
+            "a": 255,
+            "b": 0,
+            "g": 255,
+            "r": 0,
+            "rainbow": false
+        },
+        "no_visual_recoil": true,
+        "no_zoom": true,
+        "nosmoke": true,
+        "radar": true,
+        "rank_reveal": true,
+        "resolver_enabled": true,
+        "resolver_mode": 0,
+        "show_crosshair": true,
+        "show_fov": false,
+        "show_keybinds": true,
+        "show_spread": false,
+        "show_spread_type": 0,
+        "slow_walk": false,
+        "slow_walk_bind": {
+            "key": 0,
+            "mode": 0
+        },
+        "slow_walk_speed": 15.0,
+        "spread_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255,
+            "rainbow": false
+        },
+        "third_person_dist": 30.0,
+        "view_fov": 104.88899993896484,
+        "view_fov_changer": true
+    },
+    "nightmode": {
+        "value": 0.9100000262260437
+    },
+    "spec_list": {
+        "enabled": true,
+        "x": 313,
+        "y": 336
+    },
+    "trigger": {
+        "deathmatch": false,
+        "key": {
+            "key": 5,
+            "mode": 0
+        },
+        "on_key": true
+    }
+}
